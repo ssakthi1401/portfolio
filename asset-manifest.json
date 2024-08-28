@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.643109ac.css",
+    "main.js": "/portfolio/static/js/main.52d6dda1.js",
+    "static/media/designing.gif": "/portfolio/static/media/designing.0d5ed0ef0c06f26f0533.gif",
+    "static/media/block.png": "/portfolio/static/media/block.148b44df1c2c98d3c2a5.png",
+    "static/media/proj2.png": "/portfolio/static/media/proj2.6a7ac2f87437ff739f47.png",
+    "static/media/curd.png": "/portfolio/static/media/curd.c66d60f87a4efc14870a.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.b7716b7bfc60a9bc8291.png",
+    "static/media/js-projects.png": "/portfolio/static/media/js-projects.8a01c3cbe8b433529d55.png",
+    "static/media/blog-app.png": "/portfolio/static/media/blog-app.a1697d82887108b862b5.png",
+    "static/media/crud-app.png": "/portfolio/static/media/crud-app.ed4333f556e413b0ab47.png",
+    "static/media/designui.png": "/portfolio/static/media/designui.002ba3b86133ef1e6ec1.png",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.edef17a3b0930add4393.png",
+    "static/media/canva.png": "/portfolio/static/media/canva.65b6350ec03630a79a00.png",
+    "static/media/js-dsa-certificate.png": "/portfolio/static/media/js-dsa-certificate.ed1487e9c1f5a2205bb8.png",
+    "static/media/Agustina-Signature.otf": "/portfolio/static/media/Agustina-Signature.320d237b3c9e9e794388.otf",
+    "static/media/design-certificate.png": "/portfolio/static/media/design-certificate.99795c7d256676fac1d7.png",
+    "static/media/studio.png": "/portfolio/static/media/studio.803398336186e4cab2e0.png",
+    "static/media/photo.png": "/portfolio/static/media/photo.4ce9ccb8fcbcd6c70b89.png",
+    "static/media/java.jpg": "/portfolio/static/media/java.4757c6d12d4f0245d07c.jpg",
+    "static/media/cla.jpg": "/portfolio/static/media/cla.42803df881b11e457d3f.jpg",
+    "static/media/linux-logo.svg": "/portfolio/static/media/linux-logo.1ae7229d28d57fb184b684dd6602cf64.svg",
+    "static/media/bootstrap-logo.svg": "/portfolio/static/media/bootstrap-logo.402e1df73a2b0f2f6f51d88bd9ca642e.svg",
+    "static/media/reactjs-logo.svg": "/portfolio/static/media/reactjs-logo.19df4041a7c4767ba9dfb2ef654fe858.svg",
+    "static/media/vs-code-logo.svg": "/portfolio/static/media/vs-code-logo.431fbb9580b1733d4619a612d316f63b.svg",
+    "static/media/python-logo.svg": "/portfolio/static/media/python-logo.3d8ed41432d2edaf850964b1055db196.svg",
+    "static/media/git-logo.svg": "/portfolio/static/media/git-logo.03c2b63babaf05a6bcc1004a283802ee.svg",
+    "static/media/firebase-logo.svg": "/portfolio/static/media/firebase-logo.8f69a13150a1594d8fb73df74f12b548.svg",
+    "static/media/javascript-logo.svg": "/portfolio/static/media/javascript-logo.87a6904ffa190a37c824d0b73ff669c4.svg",
+    "static/media/github-logo.svg": "/portfolio/static/media/github-logo.404ff619057c051258a81f63d464629e.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/tailwind-logo.svg": "/portfolio/static/media/tailwind-logo.973c73e85d4daa24b257ba20298716c4.svg",
+    "static/media/css-3-logo.svg": "/portfolio/static/media/css-3-logo.cce1e71a67427e01caedeed1b01d4efa.svg",
+    "static/media/html-5-logo.svg": "/portfolio/static/media/html-5-logo.0c8899975fbb5345002df9b408db0cc0.svg",
+    "main.643109ac.css.map": "/portfolio/static/css/main.643109ac.css.map",
+    "main.52d6dda1.js.map": "/portfolio/static/js/main.52d6dda1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.643109ac.css",
+    "static/js/main.52d6dda1.js"
+  ]
+}
